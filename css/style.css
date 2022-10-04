@@ -738,13 +738,13 @@ ul{
     opacity: 0.4;
 }
 .linka:nth-child(1)::before{
-    background: #0a66c2;
+    background: #4267B2;
 }
 .linka:nth-child(2)::before{
     background: #1da1f2;
 }
 .linka:nth-child(3)::before{
-    background: #c32aa3;
+    background: #8a3ab9;
 }
 .linka:nth-child(4)::before{
     background: #0a66c2;
@@ -762,13 +762,13 @@ ul{
     transform: rotate(-45deg);
 }
 .linka:hover i.facebook{
-    color: #0a66ca;
+    color: #4267B2;
 }
-.linka:hover i.rwitter{
-    color: #0a66ca;
+.linka:hover i.twitter{
+    color: #1da1f2;
 }
 .linka:hover i.instagram{
-    color: #0a66ca;
+    color: #8a3ab9;
 }
 .linka:hover i.linkedin{
     color: #0a66ca;
